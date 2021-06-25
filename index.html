@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<ul>
+  {% assign md_files = site.static_files | where: 'extname', '.md' %}
+  {% for md in md_files %}
+    <li>
+      <a href="{{ md.path | split: '' | reverse | join: '' | remove_first: 'dm.' | split: '' | reverse | join: '' }}">{{ md.basename }}</a>
+    </li>
+  {% endfor %}
+</ul>
