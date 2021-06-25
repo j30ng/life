@@ -1,4 +1,4 @@
-# Kara Toprak
+# Kara Toprak 검은 흙
 
 \- Âşık Veysel
 
