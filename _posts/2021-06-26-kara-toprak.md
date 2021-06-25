@@ -2,7 +2,7 @@
 
 \- Âşık Veysel
 
-https://youtu.be/2cGANgDZPj8
+[https://youtu.be/2cGANgDZPj8](https://youtu.be/2cGANgDZPj8)
 
 진실된 친구를 원하여  
 많은 사람을 친구로 품어주었네  
